@@ -6,6 +6,6 @@ def gitdownload(repo)
 
 def artifact()
 {
-  sh "mvn packge"
+  sh "mvn package"
 }
 
